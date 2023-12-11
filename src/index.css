@@ -2,3 +2,17 @@
 @tailwind components;
 @tailwind utilities;
 
+.container{
+  padding-left: auto;
+  padding-right: auto;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+/* styles.css */
+#root {
+  max-width: 100%;
+  margin: 0 ;
+  padding: 0;
+  text-align: center;
+}

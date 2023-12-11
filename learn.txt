@@ -1,0 +1,8 @@
+Day-1(SUNDAY)
+md:hidden fixed
+md:flex hidden
+w-full- full to the screen
+h-full  full to the
+left-[-100%]
+
+useState(false)

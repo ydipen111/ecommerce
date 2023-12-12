@@ -6,3 +6,18 @@ h-full  full to the
 left-[-100%]
 
 useState(false)
+******************
+Day-2(Monday)
+1.const [toggle,setToggle]=useState(false)
+
+2.(iconClickUnclick)
+   { toggle ?
+    <IoMenuOutline  onClick={()=>setToggle(!toggle)} className='text-white text-2xl font-bold md:hidden block'/>
+     :
+    <IoCloseOutline onClick={()=>setToggle(!toggle)}  className='text-white text-2xl  font-bold md:hidden block'/>
+}
+3.(showingResponsiveDuration)
+TemplateLetrate=``
+${toggle ? 'left-0' : 'left-[-100%]'}
+
+win+v 

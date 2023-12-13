@@ -21,3 +21,34 @@ TemplateLetrate=``
 ${toggle ? 'left-0' : 'left-[-100%]'}
 
 win+v 
+*****************
+Wednesday(08-24)
+text-4xl md:text-[50px] md:text-[80px]
+-npm typed
+npm i react-typed||npm install react-typed --legacy-peer-deps
+npm Typed from 'react-typed'
+inside a div conatinaer
+                <Typed
+                    strings={['Here you can find anything']}
+                    typeSpeed={100}
+                    loop={true}
+                    backspeed=[50]
+                />
+
+1.Clear npm Cache:
+Clearing the npm cache can resolve certain installation issues. Run the following command to clear the npm cache:
+
+Copy code
+npm cache clean --force
+
+2.Use --legacy-peer-deps:
+As mentioned earlier, there might be peer dependency issues. Try installing with the --legacy-peer-deps flag:
+Copy code
+npm install react-typed --legacy-peer-deps
+
+3.Update npm:
+Ensure that you are using a recent version of npm. You can update npm with the following command:
+Copy code
+npm install -g npm@latest
+ 
+ TC- /grid grid cols-3

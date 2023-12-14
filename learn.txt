@@ -52,3 +52,8 @@ Copy code
 npm install -g npm@latest
  
  TC- /grid grid cols-3
+
+ ************
+ wednesday(08/28)
+ git config --glocal user.email-toCheckGmail
+ git congig --glocal user.email "gmail.com"

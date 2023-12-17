@@ -63,3 +63,9 @@ npm install -g npm@latest
  friday(08/29)
  gird grid-cols-3----jusfify center 
  grid grid-rows-3----items center
+ 
+ ***********
+09-01(sunday)
+input tag/button
+1.shadow-xl
+2.hover:scale-105 duration-500

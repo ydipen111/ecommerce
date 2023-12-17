@@ -5,6 +5,7 @@ import Header from './Components/Header'
 import Banner from './Components/Banner'
 import Expert from './Components/Expert'
 import Newsletter from './Components/Newsletter'
+import Plans from './Components/Plans'
 import './App.css'
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
         <Banner></Banner>
         <Expert></Expert>
         <Newsletter></Newsletter>
+        <Plans></Plans>
     </>
   )
 }

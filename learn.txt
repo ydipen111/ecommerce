@@ -57,3 +57,9 @@ npm install -g npm@latest
  wednesday(08/28)
  git config --glocal user.email-toCheckGmail
  git congig --glocal user.email "gmail.com"
+
+
+ ****************
+ friday(08/29)
+ gird grid-cols-3----jusfify center 
+ grid grid-rows-3----items center

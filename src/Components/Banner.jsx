@@ -15,6 +15,8 @@ export default function Banner() {
                     backSpeed={50}
                 />
               </div>
+              <button className='bg-black text-white p-3 rounded'>Click here</button>
+      
         </div>
     </div>
   )
